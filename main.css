@@ -46,3 +46,8 @@ dt{
 .background1{
     background-image:url("assets/bubbles.jpeg");
 }
+
+.example1 img{
+    width: 400px;
+    height: 200px;
+}
