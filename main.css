@@ -1,0 +1,48 @@
+/* rule-set #1: Everything within the body tag will have a light blue background. */
+body {
+    background-color: lightblue;
+}
+
+/* rule-set #5: ALL the li items within the css-classes class will have a orangered font. */
+.css-classes li{
+    color: orangered;
+}
+
+/* rule-set #1 */
+#number-one{
+    color: red;
+}
+
+.padding-class{
+    border:2px solid red;
+        margin: 50px 50px 50px 50px;
+        padding: 20px 20px 20px 40px;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+/* 4 */
+
+p{
+    font-family: "Times New Roman" Times, serif;
+}
+
+h2{
+    font-family:"PT Sans Narrow", Helvetica, sans-serif;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* 5 */
+.background1{
+    background-image:url("assets/bubbles.jpeg");
+}
